@@ -4,12 +4,12 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 
 ## Live Demo
 
-[View My Portfolio](https://your-portfolio-link.com)
+https://my-portfolio-s3jm.onrender.com
 
 ## Tech Stack
 
 - **Frontend**: React + Vite, Bootstrap
-- **Hosting**: Netlify
+- **Hosting**: render
 - **Other Tools**: LottieFiles (for animations), EmailJS (for contact form)
 
 ## Features
@@ -24,7 +24,6 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 
 ## Screenshots
 
-<img width="1902" height="909" alt="image" src="https://github.com/user-attachments/assets/b388a985-38c2-4501-8baf-a270ad95f7fd" />
 
 <img width="1903" height="904" alt="image" src="https://github.com/user-attachments/assets/c1f291ee-6dde-46d6-9e36-7fafe4beafa5" />
 
@@ -41,7 +40,7 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 
 Have any opportunities or collaboration ideas?
 
-- 📧 Email: [yashatkari7@gmail.com](yashatkari7@gmail.com)
-- 📱 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yashatkari2005/)
-- 🌐 Portfolio: [My Portfolio](https://yashatkari.netlify.app/)
+- 📧 Email: [hemanbhoyar6836@gmail.com](yashatkari7@gmail.com)
+- 📱 LinkedIn: https://www.linkedin.com/in/hemant-bhoyar-17bb9431b/
+- 🌐 Portfolio: https://my-portfolio-s3jm.onrender.com
 
